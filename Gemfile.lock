@@ -1,0 +1,24 @@
+PATH
+  remote: .
+  specs:
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    foursquare (0.3.4)
+      hashie (>= 0.1.8)
+      httparty (>= 0.4.3)
+      oauth (>= 0.3.5)
+    hashie (1.2.0)
+    httparty (0.8.1)
+      multi_json
+      multi_xml
+    multi_json (1.1.0)
+    multi_xml (0.4.2)
+    oauth (0.4.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  foursquare
